@@ -1,4 +1,5 @@
-## Hi there 👋 my name is Nathan Cooper i am a Graphic designer/Illustrator I like combining art and technology to make my art better. I started graphic design when I was younger because it aligned with my love of art, but I quickly fell in love with design. i am good at working in the adobe sweet and have a bachelors degree in graphic design demonstrating proficiency in design thinking and theory. other than art i also like working with computers i am self taught in the renpy game engine and know how to use linux machines and host my own media servers.
+## Hi there 👋 my name is Nathan Cooper. 
+I am a Graphic designer/Illustrator I like combining art and technology to make my art better. I started graphic design when I was younger because it aligned with my love of art, but I quickly fell in love with design. i am good at working in the adobe sweet and have a bachelors degree in graphic design demonstrating proficiency in design thinking and theory. other than art i also like working with computers i am self taught in the renpy game engine and know how to use linux machines and host my own media servers.
 you can find examples of my work here https://www.behance.net/natejocoop
 
 <!--
